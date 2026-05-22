@@ -1,7 +1,9 @@
 # 🔍 India Job Market Intelligence Platform
 
 > Analysing 29,418 real Naukri.com job listings to uncover hiring trends, skill demand, and market insights across Indian cities and industries.
+## 📊 Dashboard Preview
 
+![Dashboard](https://raw.githubusercontent.com/Divyanshusingh152/job-market-intelligence-platform/main/final_dashboard_layout.svg)
 
 ## 📌 Project Overview
 
