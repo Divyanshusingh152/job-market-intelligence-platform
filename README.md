@@ -98,7 +98,7 @@ job-market-intelligence-platform/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/job-market-intelligence-platform.git
+git clone https://github.com/Divyanshusingh152/job-market-intelligence-platform.git
 ```
 
 **2. Install dependencies**
@@ -149,7 +149,7 @@ Run all cells in order
 **Your Name**
 Data Analyst | Python | SQL | Power BI
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/divyanshusingh152/) · [GitHub]((https://github.com/Divyanshusingh152))
 
 ---
 
